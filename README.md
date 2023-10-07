@@ -23,6 +23,9 @@ Este é um **simples jogo da velha** desenvolvido em **HTML**, **CSS** e **JavaS
 4. Se um jogador vencer, as células que levaram à vitória são destacadas em verde.
 5. Para jogar novamente após uma vitória ou empate, basta recarregar a página.
 
+![image](https://github.com/danilolopes87/jogo-da-velha/assets/114113142/1f576058-b502-45d4-bca0-fd1ab3c11002)
+
+
 ## Contribuição
 
 Contribuições são **bem-vindas**! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests para melhorias no jogo. **Divirta-se jogando o Jogo da Velha!**
